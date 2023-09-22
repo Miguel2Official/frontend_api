@@ -1,0 +1,42 @@
+/* App.css */
+
+/* Color de fondo para la página */
+body {
+    background-color: #f0f8ff; /* Azul pastel */
+  }
+  
+  /* Estilo del encabezado de la tarjeta */
+  .card-header {
+    background-color: #98fb98; /* Verde pastel */
+  }
+  
+  /* Estilo del botón Registrar */
+  .btn-primary {
+    background-color: #add8e6; /* Azul claro */
+    border-color: #add8e6;
+  }
+  
+  /* Estilo del botón Listar */
+  .btn-secondary {
+    background-color: #90ee90; /* Verde claro */
+    border-color: #90ee90;
+  }
+  
+  /* Estilo del botón Actualizar */
+  .btn-warning {
+    background-color: #ffcc00; /* Amarillo */
+    border-color: #ffcc00;
+  }
+  
+  /* Estilo del botón Cancelar */
+  .btn-info {
+    background-color: #b0e0e6; /* Azul claro */
+    border-color: #b0e0e6;
+  }
+  
+  /* Estilo del botón Eliminar */
+  .btn-danger {
+    background-color: #ff6666; /* Rojo claro */
+    border-color: #ff6666;
+  }
+  
